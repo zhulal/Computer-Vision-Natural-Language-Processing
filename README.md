@@ -1,5 +1,11 @@
 # Computer-Vision-Natural-Language-Processing
 
+## StartupCampus AI Assignment - Batch 7
+
+This repository contains the solutions for the AI assignments in StartupCampus AI Batch 7. The project covers four cases, two focused on Computer Vision and two on Natural Language Processing (NLP). Below are the details of the assignments.
+
+---
+
 ## Case 1: Computer Vision - Image Classification (CIFAR-10)
 
 ### Problem Statement:
